@@ -1,4 +1,3 @@
-# AI-project-phase1
 # Hand of the King — Adversarial AI Agent
 
 An intelligent game-playing agent built for the *Hand of the King* turn-based strategy board game. This project was developed as the **Final Project for the Artificial Intelligence course (Fall 2024)**. It focuses on classical adversarial search techniques, implementing a deep tree-search algorithm optimized via alpha-beta pruning and dynamic heuristic evaluation to establish a rigorous algorithmic baseline.
