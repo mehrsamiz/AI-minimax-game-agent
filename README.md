@@ -41,8 +41,7 @@ Because a static evaluation function cannot capture the shifting tactical dynami
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/mehrsamiz/AI-project-phase1.git](https://github.com/mehrsamiz/AI-project-phase1.git)
-   cd AI-project-phase1
+   git clone [https://github.com/mehrsamiz/AI-minimax-game-agent](https://github.com/mehrsamiz/AI-minimax-game-agent)
 
 
 ## Running the Game
